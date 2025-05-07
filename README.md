@@ -43,6 +43,8 @@ project/
 ├── data/
 │   ├── company_esg_financial_dataset.csv
 │   └── cifar10/ (for image processing examples)
+│       Note: The CIFAR-10 dataset is not included in this repository due to its size. 
+│       Please refer to the notebook for download instructions and direct link.
 │
 └── ESG_Financial_Analysis.ipynb
 ```
