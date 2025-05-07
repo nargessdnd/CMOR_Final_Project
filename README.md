@@ -1,5 +1,7 @@
 # CMOR 438 / INDE 577: Final Project - Data Science & Machine Learning Showcase
 
+**Author:** Narges Saeednejad (ns112)
+
 ## Project Overview
 
 This repository demonstrates the implementation and application of key supervised and unsupervised machine learning algorithms. The project focuses on analyzing ESG (Environmental, Social, and Governance) metrics and their relationship with financial performance using custom implementations of machine learning algorithms.

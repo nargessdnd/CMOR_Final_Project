@@ -1,7 +1,5 @@
 # Supervised Learning Algorithms
 
-**Author:** Narges Saeednejad (ns112)
-
 This directory contains implementations of various supervised learning algorithms, all custom-built using NumPy and basic Python libraries.
 
 ## Algorithms Implemented
